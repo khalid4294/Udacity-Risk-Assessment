@@ -1,0 +1,1 @@
+*/10 * * * * /usr/bin/env python /Users/khalid/Desktop/starter-file/fullprocess.py
